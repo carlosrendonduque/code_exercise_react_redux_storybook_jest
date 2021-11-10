@@ -83,6 +83,4 @@ When done, send the code back to us as a ZIP archive.
   --data '{"username":"testuser","password":"password"}' \
   http://localhost:3001/api/login
   ```
-# code_exercise_react_redux_storybook_jest
-# code_exercise_react_redux_storybook_jest
-# code_exercise_react_redux_storybook_jest
+
